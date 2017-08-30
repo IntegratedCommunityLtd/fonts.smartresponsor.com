@@ -1,0 +1,11 @@
+*.gitignore
+foo.txt
+
+*.html
+!foo.html
+
+*.[oa]
+
+.idea/
+.target/
+.out/
